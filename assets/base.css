@@ -2269,12 +2269,12 @@ input[type='checkbox'] {
 
 .header__heading-link:hover .h2 {
   color: rgb(var(--color-foreground));
-  background-color: aqua;
 }
 
 .header__heading-link .h2 {
   line-height: 1;
   color: rgba(var(--color-foreground), 0.75);
+  background-color: aqua;
 }
 
 .header__heading-logo {
