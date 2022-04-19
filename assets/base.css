@@ -2254,10 +2254,6 @@ input[type='checkbox'] {
   line-height: 0;
 }
 
-.header > .header__heading-link > span.h2 {
-  background-color: aqua;
-}
-
 .header__heading,
 .header__heading-link {
   grid-area: heading;
@@ -2273,6 +2269,7 @@ input[type='checkbox'] {
 
 .header__heading-link:hover .h2 {
   color: rgb(var(--color-foreground));
+  background-color: aqua;
 }
 
 .header__heading-link .h2 {
