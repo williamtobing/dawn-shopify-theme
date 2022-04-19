@@ -2254,7 +2254,7 @@ input[type='checkbox'] {
   line-height: 0;
 }
 
-.header > .header__heading-link > h2 {
+.header > .header__heading-link > .h2 {
   color: aqua;
 }
 
